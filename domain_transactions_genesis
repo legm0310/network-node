@@ -1,0 +1,7 @@
+{"reqSignature":{},"txn":{"data":{"dest":"LKF5HhqCcmLL3thpjRARFg","role":"0","verkey":"~8TShCrWurXpJ7WXko6ni4L"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":1},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"RJ4TeAX7nKiFFgrmkR5jkH","role":"0","verkey":"~QJDgWduzrCXUwDTqfL6Knk"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":2},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"CKwn1DRmSLuvdd872MPdVe","role":"0","verkey":"~R4PbRvgoLnpWNLYT3yFRZy"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":3},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"DQecvGND6MAnYFadmFvKns","role":"2","verkey":"~ThbhQcj9EjocWfuex92p4K"},"metadata":{"from":"LKF5HhqCcmLL3thpjRARFg"},"type":"1"},"txnMetadata":{"seqNo":4},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"9Qfc63bwNP4RngiSq2rEGa","role":"2","verkey":"~HDUyVJn2CRnaAtSGKBoeDU"},"metadata":{"from":"LKF5HhqCcmLL3thpjRARFg"},"type":"1"},"txnMetadata":{"seqNo":5},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"9wGSfzGEVCyZBnynYadx3E","role":"2","verkey":"~KnTGWLH2LDWY5XJjiHsQhN"},"metadata":{"from":"LKF5HhqCcmLL3thpjRARFg"},"type":"1"},"txnMetadata":{"seqNo":6},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"UJdZXMLpWnBzw8BPwZFPsn","role":"2","verkey":"~P9Km34sSySUVoTyL96d1TU"},"metadata":{"from":"LKF5HhqCcmLL3thpjRARFg"},"type":"1"},"txnMetadata":{"seqNo":7},"ver":"1"}
