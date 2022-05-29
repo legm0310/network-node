@@ -16,6 +16,8 @@ COPY --chown=indy:indy domain_transactions_genesis /home/indy/ledger/sandbox/
 
 ADD --chown=indy:indy indy_config.py /etc/indy/
 ADD --chown=indy:indy . $HOME
+RUN pip install pytz
+# RUN ln -sf /home/indy/.pyenv/versions/3.6.13/lib/python3.6/site-packages/pytz/zoneinfo/Asia /etc/localtime
 
 RUN mkdir -p \
     $HOME/cli-scripts \

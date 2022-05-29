@@ -8,5 +8,5 @@ cchardet~=2.1.0
 rlp~=0.6.0
 supervisor~=4.0.4
 #indy-anoncreds-dev==1.0.46
-#indy-node==1.9.0
-#indy-plenum==1.9.0
+#indy-node==1.12.4
+#indy-plenum==1.12.4
